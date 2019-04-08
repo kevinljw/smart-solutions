@@ -1,0 +1,14 @@
+{
+    "8class": "Smart Transportation",
+    "company": "Chunghwa Telecom",
+    "description": "Intelligent detection at the crossroads with AI to help tackle traffic jam",
+    "Scenario": "Wang overslept this morning and rushed to an important meeting scheduled this morning. Driving on the expressway, he got stuck in a massive traffic jam. If he had known the traffic jam, he could have made a detour.",
+    "pain_points_and_needs": ["\t\u2022\t Data collected from vehicle sensors or cameras for traffic detection is not utilized fully at this moment to tackle traffic jam", "\t\u2022\t Drivers could not obtain the traffic information in real time", "\t\u2022\t Traffic infractions are sometimes hard to detect and report with evidence"],
+    "smart_solution": "This solution features fisheye cameras at the crossroads, and to analyze the traffic flow based on Cellular Vehicle Probe (CVP) by using the captured data and the reported position of the driver's cell phone. The flow predication can provide the public with route suggestion. The traffic lights can also be adjusted based on the big data analysis to deal with the traffic jam. AI image recognition can help to detect traffic and collect evidence for traffic infractions, which could stop large vehicles from violating the regulations.",
+    "adopted_technology": "Cellular Vehicle Probe (CVP), Fisheye Image Detection, AI Image Recognition, Big Data Analytics",
+    "benefits": ["\t\u2022\t Increases travel speed for major roads", "\t\u2022\t Provides route suggestions to drivers", "\t\u2022\t Tackles traffic jam with route suggestion and adjustment of traffic lights"],
+    "solution_description": "This solution involves setting up a fisheye image detection system at the crossroads. The detected data is combined with Cellular Vehicle Probe (CVP) and big data analytics to provide route suggestion, identify traffic infractions, and adjust traffic lights to tackle the traffic jam.",
+    "solution_provider": "Chunghwa Telecom",
+    "reference_site": "Kaohsiung City, Chiayi County, Chiayi City, Tainan City",
+    "contact": "service@communications.org.tw"
+}
